@@ -1,0 +1,4 @@
+_installers/
+*-demo.html
+*.zip
+make_thumbnails.py
